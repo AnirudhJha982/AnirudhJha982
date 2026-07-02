@@ -54,11 +54,19 @@ Aspiring Software Engineer passionate about problem-solving, software developmen
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AnirudhJha982&show_icons=true&theme=github_dark)
+## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anirudhjha982&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img width="700" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnirudhJha982&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudhjha982&theme=tokyonight&layout=compact&hide_border=true)
+<p align="center">
+  <img width="700" src="https://streak-stats.demolab.com?user=AnirudhJha982&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="700" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnirudhJha982&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
@@ -80,7 +88,7 @@ Aspiring Software Engineer passionate about problem-solving, software developmen
 
 ---
 
-# ## 📌 Featured Projects
+## 📌 Featured Projects
 
 🚆 **Railway Information System**  
 A railway management web application.
