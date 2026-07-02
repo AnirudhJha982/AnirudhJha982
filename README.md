@@ -1,4 +1,4 @@
-# Anirudh-Rishi
+# AnirudhJha982
 Aspiring Software Engineer passionate about problem-solving, software development, and building practical applications.
 <div align="center">
 
